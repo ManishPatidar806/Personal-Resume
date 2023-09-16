@@ -1,0 +1,98 @@
+.body{
+    background-color: rgb(201, 200, 197);
+}
+.Main{
+       width: 850px;
+        height: 100%;
+        margin: 30px auto;
+        box-shadow: 5px 5px 5px 5px #54585d33;
+        border: 2px solid black;
+      background-image: url("./resources/hacker-background.jpg");
+        color: white;
+    
+}
+.profile{
+    display: flex;
+    margin-left: 20px;
+}
+.profile-picture {
+        width: 150px;
+        height: 150px;
+        border: 3px solid var(--white);
+        padding: 10px;
+        border-radius: 50%;
+        margin: 20px auto;
+        background-size: contain;
+    }
+
+
+.main-body{
+background-image: url(./resources/main.jpg);
+padding-left: 20px;
+padding-bottom: 20px;
+display: flex;
+height: 100%;
+width: 97.6%;
+justify-content: 20%;
+}
+.right-part{
+    background-color: #BFD2D0;
+    color:black;
+    width: 45%;
+    height: 500px;
+    border-radius: 10%;
+    margin-left: 20px;
+    border: 3px solid black;
+
+}
+.left-part{
+    width: 45%;
+    height: 500px;
+    background-color: #BFD2D0;
+    border: 3px solid black;
+    border-radius: 10%;
+    color: black;
+
+}
+.name{
+    font-size: 20px;
+    line-height: 20px;
+    text-transform:none;
+    margin-left: 20px;
+    
+}
+.under-line{
+        border: none;
+        height: 1px;
+        background: black;
+        margin-top: 0.5px;
+}
+   .head-margin{
+    margin-left: 0.5px;
+    height: 3px;
+}
+.small-box{
+    margin: 30px;
+    margin-top: 2px;
+} 
+.edu-head{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   margin-top: 15px;
+
+}
+.header-certificate{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 10rem;
+}
+.certificate{
+    background-image: url("./resources/certificate-background.jpg");
+    background-size: cover;
+    width: 110rem;
+    height: auto;
+}
+
