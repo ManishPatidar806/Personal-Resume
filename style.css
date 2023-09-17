@@ -87,12 +87,19 @@ justify-content: 20%;
     justify-content: center;
     align-items: center;
     color: white;
-    font-size: 10rem;
+    font-size: 5rem;
 }
-.certificate{
+.Main-certificate{
     background-image: url("./resources/certificate-background.jpg");
     background-size: cover;
-    width: 110rem;
+    width: auto;
     height: auto;
+}
+.Certificate{
+    display: flex;
+    flex-direction: column;
+    margin-left: 15%;
+    width: 70%;
+    
 }
 
