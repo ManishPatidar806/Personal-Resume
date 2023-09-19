@@ -24,7 +24,11 @@
         margin: 20px auto;
         background-size: contain;
     }
+.linkedin:hover{
+    color: black;
+    background-color: white;
 
+}
 
 .main-body{
 background-image: url(./resources/main.jpg);
