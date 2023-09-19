@@ -1,2 +1,2 @@
-# Personal-Portfolio
+# Personal-Resume
 Author : Manish patidar
